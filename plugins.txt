@@ -1,0 +1,6 @@
+ec2-plugin:latest
+configuration-as-code:latest
+git:latest
+github-branch-source:latest
+ssh-agent:latest
+publish-over-ssh:latest

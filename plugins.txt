@@ -14,3 +14,5 @@ git:latest
 github-branch-source:latest
 ssh-agent:latest
 publish-over-ssh:latest
+kubernetes:latest
+authorize-project:latest
